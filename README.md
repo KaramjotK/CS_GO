@@ -1,1 +1,2 @@
-# CS_GO
+## CS_GO
+Predicting winner in CS_GO.
